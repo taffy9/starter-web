@@ -1,2 +1,4 @@
 .stuff
 *.log
+*.orig
+
