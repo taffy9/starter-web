@@ -24,8 +24,9 @@ turtles
 
 modified. and again
 
-### setion 5
+### How to contribute 
 
-last edit
+Please fork and then issue pull request.
+
 
 @ copright 2017 - Blah blah.com
